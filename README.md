@@ -22,6 +22,8 @@ by [Fernando Herrera](https://github.com/Klerith).
 
 ## Previews 👁️
 
+![preview](https://github.com/lsegg/journal-app/blob/main/src/assets/preview.png?raw=true)
+
 ## Requirements ⚙️
 
 A text editor like [Visual Studio Code](https://code.visualstudio.com/).
